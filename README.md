@@ -15,5 +15,6 @@
 1) HTML 
 2) CSS 
 
+<hr>
 
 <img src="images/First-Project.png" >
